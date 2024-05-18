@@ -1,131 +1,168 @@
-# 🚀🎬 ShortGPT 
-## (Note: ShortX is out, a paid premium automation factory with more capabilities than ShortGPT, check it out at [shortx.ai](https://shortx.ai?ref=sgpt))
-<p align="center">
-  <a href="https://discord.gg/uERx39ru3R">
-    <img src="https://dcbadge.vercel.app/api/server/uERx39ru3R?compact=true&style=flat">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀🎬 短GPT</font></font></h1><a id="user-content--shortgpt" class="anchor" aria-label="永久链接：🚀🎬 ShortGPT" href="#-shortgpt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"></font><a href="https://shortx.ai?ref=sgpt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（注：ShortX 已推出，这是一个付费高级自动化工厂，具有比 ShortGPT 更多的功能，请在Shortx.ai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上查看</font><font style="vertical-align: inherit;">）</font></font></h2><a id="user-content-note-shortx-is-out-a-paid-premium-automation-factory-with-more-capabilities-than-shortgpt-check-it-out-at-shortxai" class="anchor" aria-label="永久链接：（注：ShortX 已推出，这是一家付费高级自动化工厂，其功能比 ShortGPT 更多，请在 Shortx.ai 上查看）" href="#note-shortx-is-out-a-paid-premium-automation-factory-with-more-capabilities-than-shortgpt-check-it-out-at-shortxai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <a href="https://discord.gg/uERx39ru3R" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f8e2a86a812cedb84c4e21d7832f6556614ff9c4b093ad51e83ed7f20a3d38f9/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f754552783339727533523f636f6d706163743d74727565267374796c653d666c6174" data-canonical-src="https://dcbadge.vercel.app/api/server/uERx39ru3R?compact=true&amp;style=flat" style="max-width: 100%;">
   </a>
-  <a href="https://star-history.com/#rayventura/shortgpt)">
-    <img src="https://img.shields.io/github/stars/rayventura/shortgpt?style=social">
+  <a href="https://star-history.com/#rayventura/shortgpt)" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4d9047f807e13293f000deb7d97949cf52f0c4dc02d0b2c52daba473ca424e4a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f72617976656e747572612f73686f72746770743f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/stars/rayventura/shortgpt?style=social" style="max-width: 100%;">
   </a>
-  <a href="https://pypi.org/project/shortgpt/">
-    <img src="https://static.pepy.tech/personalized-badge/shortgpt?period=month&units=international_system&left_color=blue&right_color=green&left_text=Downloads/month">
+  <a href="https://pypi.org/project/shortgpt/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/48f2a5ee4302766f3caff667d06195182679fdf08c2ac70f1eba5d0b8ea9cd4f/68747470733a2f2f7374617469632e706570792e746563682f706572736f6e616c697a65642d62616467652f73686f72746770743f706572696f643d6d6f6e746826756e6974733d696e7465726e6174696f6e616c5f73797374656d266c6566745f636f6c6f723d626c75652672696768745f636f6c6f723d677265656e266c6566745f746578743d446f776e6c6f6164732f6d6f6e7468" data-canonical-src="https://static.pepy.tech/personalized-badge/shortgpt?period=month&amp;units=international_system&amp;left_color=blue&amp;right_color=green&amp;left_text=Downloads/month" style="max-width: 100%;">
   </a>
-  <a href="https://docs.shortgpt.ai/">
-    <img src="https://img.shields.io/badge/docs-visit-blue">
+  <a href="https://docs.shortgpt.ai/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/86262cb81bf57f7ad030bd9e861b84d570538dd9870e3989595976246ac6e8d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d76697369742d626c7565" data-canonical-src="https://img.shields.io/badge/docs-visit-blue" style="max-width: 100%;">
   </a>  
 </p>
-
-<div align="center" style="border-radius: 20px;" width="18%">
-    <img src="https://github.com/RayVentura/ShortGPT/assets/121462835/083c8dc3-bac5-42c1-a08d-3ff9686d18c5" alt="ShortGPT-logo" style="border-radius: 20px;" width="18%"/>
+<div align="center" width="18%" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/121462835/252747979-083c8dc3-bac5-42c1-a08d-3ff9686d18c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUyNzQ3OTc5LTA4M2M4ZGMzLWJhYzUtNDJjMS1hMDhkLTNmZjk2ODZkMThjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjgzMzVkNzdkMmFmYWM2YjU4OTY5NjUzOGY1ZDFhNGRiNDkwNzI0MGFlMTBkMDc0MTg0YTNiOTJlZTdkZTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kLKeMiAJrmybwnzJ3ef9i8EovyDkbpsnibyzWDqmnCg"><img src="https://private-user-images.githubusercontent.com/121462835/252747979-083c8dc3-bac5-42c1-a08d-3ff9686d18c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUyNzQ3OTc5LTA4M2M4ZGMzLWJhYzUtNDJjMS1hMDhkLTNmZjk2ODZkMThjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjgzMzVkNzdkMmFmYWM2YjU4OTY5NjUzOGY1ZDFhNGRiNDkwNzI0MGFlMTBkMDc0MTg0YTNiOTJlZTdkZTdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kLKeMiAJrmybwnzJ3ef9i8EovyDkbpsnibyzWDqmnCg" alt="短GPT-标志" width="18%" style="max-width: 100%;"></a>
 </div>
-<div align="center">
-  <a href="https://discord.gg/uERx39ru3R">
-    <img src="https://img.shields.io/discord/1126042224979886160?color=7289da&logo=discord&logoColor=blue&labelColor=white&color=cyan" alt="Join our Discord" height="34">
+<div align="center" dir="auto">
+  <a href="https://discord.gg/uERx39ru3R" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f81ba57e1f358c7fcea73073eba532e2b0390c709707f4d2f19dbcef12bdfeae/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313132363034323232343937393838363136303f636f6c6f723d373238396461266c6f676f3d646973636f7264266c6f676f436f6c6f723d626c7565266c6162656c436f6c6f723d776869746526636f6c6f723d6379616e" alt="加入我们的不和谐" height="34" data-canonical-src="https://img.shields.io/discord/1126042224979886160?color=7289da&amp;logo=discord&amp;logoColor=blue&amp;labelColor=white&amp;color=cyan" style="max-width: 100%;">
   </a>
 </div>
+<div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+⚡ 使用人工智能自动创建视频和短内容 ⚡
+</font></font></div>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请按照以下安装步骤在本地运行 Web 应用程序（强烈建议运行 google Colab）。请阅读“installation-notes.md”了解更多详细信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎥 展示（</font></font><a href="https://youtu.be/hpoSHq-ER8U" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 上的完整视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></h2><a id="user-content--showcase-full-video-on-youtube" class="anchor" aria-label="永久链接：🎥 展示（YouTube 上的完整视频）" href="#-showcase-full-video-on-youtube"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 Quickshowcase.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速展示.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-<div align="center">
-⚡ Automating video and short content creation with AI ⚡
-</div>
-</br>
+  <video src="https://private-user-images.githubusercontent.com/121462835/252747808-a802faad-0fd7-4fcb-aa82-6365c27ea5fe.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUyNzQ3ODA4LWE4MDJmYWFkLTBmZDctNGZjYi1hYTgyLTYzNjVjMjdlYTVmZS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODhjMDVmOTAzMGQ5Njk4OGM4OTAwNGY0YTkyM2UwNDE0MGQwMTFhNTM5ODdmZTg4YjM5NzRiMjBlNDQyZmMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GhY3Ux4Phz8EBbZ9JAiSOhwYmjPMCfxOeSdU4krMBmE" data-canonical-src="https://private-user-images.githubusercontent.com/121462835/252747808-a802faad-0fd7-4fcb-aa82-6365c27ea5fe.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUyNzQ3ODA4LWE4MDJmYWFkLTBmZDctNGZjYi1hYTgyLTYzNjVjMjdlYTVmZS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODhjMDVmOTAzMGQ5Njk4OGM4OTAwNGY0YTkyM2UwNDE0MGQwMTFhNTM5ODdmZTg4YjM5NzRiMjBlNDQyZmMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GhY3Ux4Phz8EBbZ9JAiSOhwYmjPMCfxOeSdU4krMBmE" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-Follow the installation steps below for running the web app locally (running the google Colab is highly recommanded). 
-Please read "installation-notes.md" for more details.
-## 🎥 Showcase ([Full video on YouTube](https://youtu.be/hpoSHq-ER8U))
+  </video>
+</details>
 
-https://github.com/RayVentura/ShortGPT/assets/121462835/a802faad-0fd7-4fcb-aa82-6365c27ea5fe
-## 🎥 Voice Dubbing
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎥 配音</font></font></h2><a id="user-content--voice-dubbing" class="anchor" aria-label="永久链接：🎥 配音" href="#-voice-dubbing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 ShortGPT.video.to.video.dubbing.and.voice.translation.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ShortGPT.video.to.video.dubbing.and.voice.translation.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
+  <video src="https://private-user-images.githubusercontent.com/121462835/256639813-06f51b2d-f8b1-4a23-b299-55e0e18902ef.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjU2NjM5ODEzLTA2ZjUxYjJkLWY4YjEtNGEyMy1iMjk5LTU1ZTBlMTg5MDJlZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjMzZTczNzAwMTYzNjg5YjY5NzAyNjgxMGU0MzRlYzk5YWIwYTg0ODg4MjJkN2I3MWNiYmM2ZjViYzkxYjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wblwnyh5_8WlkvOZt5T86z6dqC8X2o8-in7_S74UhH0" data-canonical-src="https://private-user-images.githubusercontent.com/121462835/256639813-06f51b2d-f8b1-4a23-b299-55e0e18902ef.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjU2NjM5ODEzLTA2ZjUxYjJkLWY4YjEtNGEyMy1iMjk5LTU1ZTBlMTg5MDJlZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjMzZTczNzAwMTYzNjg5YjY5NzAyNjgxMGU0MzRlYzk5YWIwYTg0ODg4MjJkN2I3MWNiYmM2ZjViYzkxYjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wblwnyh5_8WlkvOZt5T86z6dqC8X2o8-in7_S74UhH0" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-https://github.com/RayVentura/ShortGPT/assets/121462835/06f51b2d-f8b1-4a23-b299-55e0e18902ef
+  </video>
+</details>
 
-## 🌟 Show Your Support
-We hope you find ShortGPT helpful! If you do, let us know by giving us a star ⭐ on the repo. It's easy, just click on the 'Star' button at the top right of the page. Your support means a lot to us and keeps us motivated to improve and expand ShortGPT. Thank you and happy content creating! 🎉 
-
-[![GitHub star chart](https://img.shields.io/github/stars/rayventura/shortgpt?style=social)](https://github.com/RayVentura/ShortGPT/stargazers)
-## 🛠️ How it works
-![alt text](https://github.com/RayVentura/ShortGPT/assets/121462835/fcee74d4-f856-4481-949f-244558bf3bfa)
-## 📝 Introduction to ShortGPT 
-ShortGPT is a powerful framework for automating content creation. It simplifies video creation, footage sourcing, voiceover synthesis, and editing tasks. Of the most popular use-cases of ShortGPT is youtube automation and Tiktok creativity program automation.
-
-- 🎞️ **Automated editing framework**: Streamlines the video creation process with an LLM oriented video editing language.
-
-- 📃 **Scripts and Prompts**: Provides ready-to-use scripts and prompts for various LLM automated editing processes.
-
-- 🗣️ **Voiceover / Content Creation**: Supports multiple languages including English 🇺🇸, Spanish 🇪🇸, Arabic 🇦🇪, French 🇫🇷, Polish 🇵🇱, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, Russian 🇷🇺, Mandarin Chinese 🇨🇳, Japanese 🇯🇵, Hindi 🇮🇳,Korean 🇰🇷, and way over 30 more languages (with EdgeTTS)
-
-- 🔗 **Caption Generation**: Automates the generation of video captions.
-
-- 🌐🎥 **Asset Sourcing**: Sources images and video footage from the internet, connecting with the web and Pexels API as necessary.
-
-- 🧠 **Memory and persistency**: Ensures long-term persistency of automated editing variables with TinyDB.
-
-## 🚀 Quick Start: Run ShortGPT on Google Colab (https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing)
-
-If you prefer not to install the prerequisites on your local system, you can use the Google Colab notebook. This option is free and requires no installation setup.
-
-1. Click on the link to the Google Colab notebook: [https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing](https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing)
-
-2. Once you're in the notebook, simply run the cells in order from top to bottom. You can do this by clicking on each cell and pressing the 'Play' button, or by using the keyboard . Enjoy using ShortGPT!
-
-# Instructions for running shortGPT locally
-This guide provides step-by-step instructions for installing shortGPT and its dependencies.
-To run ShortGPT locally, you need Docker.
-
-## Installation Steps
-
-To run ShortGPT, you need to have docker. Follow the instructions "installation-notes.md" for more details.
-
-1. For running the Dockerfile, do this:
-```bash
-docker build -t short_gpt_docker:latest .
-docker run -p 31415:31415 --env-file .env short_gpt_docker:latest
-```
-## Running runShortGPT.py Web Interface
-
-2. After running the script, a Gradio interface should open at your local host on port 31415 (http://localhost:31415)
- 
-
-## Framework overview
-
-- 🎬 The `ContentShortEngine` is designed for creating shorts, handling tasks from script generation to final rendering, including adding YouTube metadata.
-
-- 🎥 The `ContentVideoEngine` is ideal for longer videos, taking care of tasks like generating audio, automatically sourcing background video footage, timing captions, and preparing background assets.
-
-- 🗣️ The `ContentTranslationEngine` is designed to dub and translate entire videos, from mainstream languages to more specific target languages. It takes a video file, or youtube link, transcribe it's audio, translates the content, voices it in a target language, adds captions , and gives back a new video, in a totally different language.
-
-- 🎞️ The automated `EditingEngine`, using Editing Markup Language and JSON, breaks down the editing process into manageable and customizable blocks, comprehensible to Large Language Models.
-
-💡 ShortGPT offers customization options to suit your needs, from language selection to watermark addition.
-
-🔧 As a framework, ShortGPT is adaptable and flexible, offering the potential for efficient, creative content creation.
-
-More documentation incomming, please be patient.
-
-
-## Technologies Used
-
-ShortGPT utilizes the following technologies to power its functionality:
-
-- **Moviepy**: Moviepy is used for video editing, allowing ShortGPT to make video editing and rendering
-
-- **Openai**: Openai is used for automating the entire process, including generating scripts and prompts for LLM automated editing processes.
-
-- **ElevenLabs**: ElevenLabs is used for voice synthesis, supporting multiple languages for voiceover creation.
-
-- **EdgeTTS**: Microsoft's FREE EdgeTTS is used for voice synthesis, supporting way many more language than ElevenLabs currently.
-
-- **Pexels**: Pexels is used for sourcing background footage, allowing ShortGPT to connect with the web and access a wide range of images and videos.
-
-- **Bing Image**: Bing Image is used for sourcing images, providing a comprehensive database for ShortGPT to retrieve relevant visuals.
-
-These technologies work together to provide a seamless and efficient experience in automating video and short content creation with AI.
-
-## 💁 Contributing
-
-As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it would be in the form of a new feature, improved infrastructure, or better documentation.
-<p align="center">
-  <a href="https://star-history.com/#RayVentura/ShortGPT&Date">
-    <img src="https://api.star-history.com/svg?repos=RayVentura/ShortGPT&type=Date" alt="Star History Chart">
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟表达您的支持</font></font></h2><a id="user-content--show-your-support" class="anchor" aria-label="永久链接：🌟 表达您的支持" href="#-show-your-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们希望 ShortGPT 对您有所帮助！如果您这样做，请在存储库上给我们一颗星 ⭐ 让我们知道。很简单，只需点击页面右上角的“星标”按钮即可。您的支持对我们意义重大，让我们有动力改进和扩展 ShortGPT。谢谢您，内容创作愉快！ 🎉</font></font></p>
+<p dir="auto"><a href="https://github.com/RayVentura/ShortGPT/stargazers"><img src="https://camo.githubusercontent.com/4d9047f807e13293f000deb7d97949cf52f0c4dc02d0b2c52daba473ca424e4a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f72617976656e747572612f73686f72746770743f7374796c653d736f6369616c" alt="GitHub 星图" data-canonical-src="https://img.shields.io/github/stars/rayventura/shortgpt?style=social" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠️它是如何运作的</font></font></h2><a id="user-content-️-how-it-works" class="anchor" aria-label="永久链接：🛠️ 它是如何工作的" href="#️-how-it-works"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/121462835/253706292-fcee74d4-f856-4481-949f-244558bf3bfa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUzNzA2MjkyLWZjZWU3NGQ0LWY4NTYtNDQ4MS05NDlmLTI0NDU1OGJmM2JmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YWRmZGZkYzM1OGQ4YzhmNTQ5MzE1MWFkMGJjODM1ODgyNWEzNzgyOTI3Mzg3YzM3MmMxZGI2MTg1ZGI2ZjYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DxmCskHb8E4ZpNDT6gQgK2Ox8bs71nl69OaMcQErwZA"><img src="https://private-user-images.githubusercontent.com/121462835/253706292-fcee74d4-f856-4481-949f-244558bf3bfa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwNDcyMDIsIm5iZiI6MTcxNjA0NjkwMiwicGF0aCI6Ii8xMjE0NjI4MzUvMjUzNzA2MjkyLWZjZWU3NGQ0LWY4NTYtNDQ4MS05NDlmLTI0NDU1OGJmM2JmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxOFQxNTQxNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YWRmZGZkYzM1OGQ4YzhmNTQ5MzE1MWFkMGJjODM1ODgyNWEzNzgyOTI3Mzg3YzM3MmMxZGI2MTg1ZGI2ZjYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DxmCskHb8E4ZpNDT6gQgK2Ox8bs71nl69OaMcQErwZA" alt="替代文本" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 ShortGPT 简介</font></font></h2><a id="user-content--introduction-to-shortgpt" class="anchor" aria-label="永久链接：📝 ShortGPT 简介" href="#-introduction-to-shortgpt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ShortGPT 是一个用于自动化内容创建的强大框架。它简化了视频创建、素材来源、配音合成和编辑任务。 ShortGPT 最流行的用例是 YouTube 自动化和 Tiktok 创意程序自动化。</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎞️</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动编辑框架</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使用面向 LLM 的视频编辑语言简化视频创建过程。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📃</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">脚本和提示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：为各种 LLM 自动编辑过程提供即用型脚本和提示。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣️</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">画外音/内容创作</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：支持多种语言，包括英语🇺🇸、西班牙语🇪🇸、阿拉伯语🇦🇪、法语🇫🇷、波兰语🇵🇱、德语🇩🇪、意大利语🇮🇹、葡萄牙语🇵🇹、俄语🇷🇺、中文普通话🇨🇳 、日语 🇯🇵、印地语 🇮🇳、韩语 🇰🇷 以及其他 30 多种语言（使用 EdgeTTS）</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔗</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字幕生成</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：自动生成视频字幕。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐🎥</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源来源</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：从互联网上获取图像和视频片段，根据需要连接网络和 Pexels API。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧠</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存和持久性</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：确保使用 TinyDB 自动编辑变量的长期持久性。</font></font></p>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 快速入门：在 Google Colab 上运行 ShortGPT ( </font></font><a href="https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></h2><a id="user-content--quick-start-run-shortgpt-on-google-colab-httpscolabresearchgooglecomdrive1_2ukdpf6lqxcqwaaczb3rwmvqqtbisdeuspsharing" class="anchor" aria-label="永久链接：🚀 快速入门：在 Google Colab 上运行 ShortGPT（https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing）" href="#-quick-start-run-shortgpt-on-google-colab-httpscolabresearchgooglecomdrive1_2ukdpf6lqxcqwaaczb3rwmvqqtbisdeuspsharing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想在本地系统上安装必备组件，则可以使用 Google Colab 笔记本。此选项是免费的，无需安装设置。</font></font></p>
+<ol dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单击 Google Colab 笔记本的链接：</font></font><a href="https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE?usp=sharing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://colab.research.google.com/drive/1_2UKdpF6lqxCqWaAcZb3rwMVQqtbisdE? usp=sharing</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进入笔记本后，只需按从上到下的顺序运行单元格即可。您可以通过单击每个单元格并按“播放”按钮或使用键盘来完成此操作。享受使用 ShortGPT 的乐趣！</font></font></p>
+</li>
+</ol>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地运行shortGPT的说明</font></font></h1><a id="user-content-instructions-for-running-shortgpt-locally" class="anchor" aria-label="永久链接：本地运行 ShortGPT 的说明" href="#instructions-for-running-shortgpt-locally"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本指南提供了安装 ShortGPT 及其依赖项的分步说明。要在本地运行 ShortGPT，您需要 Docker。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装步骤</font></font></h2><a id="user-content-installation-steps" class="anchor" aria-label="永久链接：安装步骤" href="#installation-steps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行 ShortGPT，您需要有 docker。请按照“installation-notes.md”说明了解更多详细信息。</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行 Dockerfile，请执行以下操作：</font></font></li>
+</ol>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker build -t short_gpt_docker:latest <span class="pl-c1">.</span>
+docker run -p 31415:31415 --env-file .env short_gpt_docker:latest</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker build -t short_gpt_docker:latest .
+docker run -p 31415:31415 --env-file .env short_gpt_docker:latest" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 runShortGPT.py Web 界面</font></font></h2><a id="user-content-running-runshortgptpy-web-interface" class="anchor" aria-label="永久链接：运行 runShortGPT.py Web 界面" href="#running-runshortgptpy-web-interface"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ol start="2" dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行脚本后，Gradio 界面应在本地主机的端口 31415 ( </font></font><a href="http://localhost:31415" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:31415</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )上打开</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架概述</font></font></h2><a id="user-content-framework-overview" class="anchor" aria-label="永久链接：框架概述" href="#framework-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎬</font></font><code>ContentShortEngine</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专为创建短片、处理从脚本生成到最终渲染的任务而设计，包括添加 YouTube 元数据。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎥 它</font></font><code>ContentVideoEngine</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非常适合较长的视频，可以处理生成音频、自动获取背景视频片段、定时字幕和准备背景资源等任务。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣️ 旨在</font></font><code>ContentTranslationEngine</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配音和翻译整个视频，从主流语言到更具体的目标语言。它需要一个视频文件或 YouTube 链接，转录其音频，翻译内容，以目标语言发音，添加字幕，并以完全不同的语言返回一个新视频。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎞️ 使用编辑标记语言和 JSON 进行自动化</font></font><code>EditingEngine</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，将编辑过程分解为可管理和可定制的块，易于大型语言模型理解。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💡 ShortGPT 提供满足您需求的自定义选项，从语言选择到水印添加。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔧 作为一个框架，ShortGPT 具有适应性和灵活性，为高效、创造性的内容创建提供了潜力。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多文档正在传入中，请耐心等待。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用的技术</font></font></h2><a id="user-content-technologies-used" class="anchor" aria-label="永久链接：使用的技术" href="#technologies-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ShortGPT 利用以下技术来增强其功能：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Moviepy</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Moviepy用于视频编辑，允许ShortGPT进行视频编辑和渲染</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Openai</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Openai用于自动化整个过程，包括为LLM自动编辑过程生成脚本和提示。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ElevenLabs</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：ElevenLabs 用于语音合成，支持多种语言进行配音创作。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EdgeTTS</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：微软的免费EdgeTTS用于语音合成，支持的语言比ElevenLabs目前多得多。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pexels</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Pexels 用于获取背景素材，允许 ShortGPT 连接网络并访问各种图像和视频。</font></font></p>
+</li>
+<li>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bing Image</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Bing Image 用于获取图像，为 ShortGPT 提供综合数据库来检索相关视觉效果。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些技术协同工作，通过人工智能自动创建视频和短内容，提供无缝、高效的体验。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💁 贡献</font></font></h2><a id="user-content--contributing" class="anchor" aria-label="永久链接：💁 贡献" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为一个快速发展领域的开源项目，我们对贡献非常开放，无论是新功能、改进的基础设施还是更好的文档。</font></font></p>
+<p align="center" dir="auto">
+  <a href="https://star-history.com/#RayVentura/ShortGPT&amp;Date" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/269d36edca594a3e727c340c1735f62d0a3f5682aac4b405147357ab8805f8d7/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d52617956656e747572612f53686f727447505426747970653d44617465" alt="明星历史图" data-canonical-src="https://api.star-history.com/svg?repos=RayVentura/ShortGPT&amp;type=Date" style="max-width: 100%;">
   </a>
 </p>
+</article></div>
